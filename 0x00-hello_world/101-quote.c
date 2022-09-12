@@ -1,13 +1,8 @@
 #include <unistd.h>
 
 /**
- *
- *  * main - Prints output
- *
- *   *
- *
- *    * Return: Always 0
- *
+ *main - Prints output
+ *Return: Always 0
  */
 
 int main(void)
